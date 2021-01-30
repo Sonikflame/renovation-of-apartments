@@ -34,7 +34,7 @@
 * *E-Mail:* **sonikflame@mail.ru**
 
 
-#### Мои профили на фриланс-биржах: 
+#### Мои профили на фриланс-биржах:
 
 * [Профиль на freelance.ru](https://freelance.ru/Sonikflame)
 
