@@ -1,4 +1,4 @@
-# Лендинг "Ремонт квартир" - Учебный проект
+# Лендинг "Ремонт квартир"
 
 Учебный проект доступен по адресу [https://sonikflame.github.io/renovation-of-apartments/](https://sonikflame.github.io/renovation-of-apartments/).
 
